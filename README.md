@@ -2,7 +2,7 @@
 
 As a passionate data analyst and data scientist, I have a strong analytical mindset and experience in high technology, as well as skills in data processing and analysis and the use of machine learning algorithms. I easily absorb new knowledge and can solve complex problems with innovative solutions. 
 - 📫 How to reach me via Telegram: [@t_monteg](https://t.me/t_monteg) or LinkedIn: www.linkedin.com/in/mtiugaev
-- Additional information can be found in [my CV]()
+- Additional information can be found in [my CV](https://github.com/MTiuD/MTiuD/blob/main/CV_Tiugaev.pdf)
 <!--
 **MTiuD/MTiuD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
